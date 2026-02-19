@@ -1,7 +1,7 @@
 # Circuit Simulation
 
 ## French description
-Ce programme Python simule un circuit Hot Wheels grandeur nature, calculant les temps de passage et les performances pour 6 modèles de voitures différents.
+Ce programme Python, issu d'un projet académique au CESI, simule un circuit Hot Wheels grandeur nature, calculant les temps de passage et les performances pour 6 modèles de voitures différents.
 
 Le circuit se compose de 4 sections distinctes :
 1. **Piste d'Élan** - Une zone d'accélération en descente avec option nitro
@@ -14,7 +14,7 @@ Sélectionnez un véhicule parmi le 6 modèles suivant : Dodge, Toyota, Chevrole
 Le programme renvoie le temps de chaque section ainsi que les vitesses de sortie, le temps total pour réaliser la course et des graphiques visuels pour la vitesse dans le looping et la trajectoire du saut. Enfin, le programme détermine si la voiture peut compléter chaque section et battre le temps d'Owen Shaw de 8 secondes. 
 
 ## English description
-This Python program simulates a full-scale Hot Wheels circuit, calculating lap times and performance metrics for 6 different car models.
+This Python program, from an academic project at CESI, simulates a full-scale Hot Wheels circuit, calculating lap times and performance metrics for 6 different car models.
 
 The track consists of 4 distinct sections:
 1. **Launch Ramp** - A downhill acceleration zone with optional nitro boost
