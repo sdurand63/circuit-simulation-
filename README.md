@@ -1,4 +1,5 @@
-# Circuit Simulation
+# Circuit Simulation  
+This project is for educational purposes only.  
 
 ## French description
 Ce programme Python, issu d'un projet académique de ma première année CPI au CESI, simule un circuit Hot Wheels grandeur nature, calculant les temps de passage et les performances pour 6 modèles de voitures différents.
